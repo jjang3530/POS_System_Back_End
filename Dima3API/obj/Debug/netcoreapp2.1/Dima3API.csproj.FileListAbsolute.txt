@@ -1,0 +1,128 @@
+C:\Users\Jay\Desktop\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Jay\Desktop\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Jay\Desktop\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\Desktop\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\appsettings.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+D:\01.CPA\CPA_Level_5\MS Enterprise\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\kim8988\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Yjeon7803\Desktop\github\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Yjeon7803\Desktop\Dima3_BackEnd\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csproj.CoreCompileInputs.cache
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Downloads\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.deps.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.runtimeconfig.dev.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.csprojAssemblyReference.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorAssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfoInputs.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.AssemblyInfo.cs
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.RazorTargetAssemblyInfo.cache
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.dll
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\obj\Debug\netcoreapp2.1\Dima3API.pdb
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Jay\Desktop\5_CPA_Term\2.PROG3050-Programming Microsoft Enterprise Applications\Dima3_BackEnd-master\Dima3API\Dima3API\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
